@@ -24,9 +24,9 @@
   ],
   "interests":["Running", "Walking","Basketball", "Bicycle"],
   "experiences":[
-    {"jobTitle": "Backend Developer", "time": "Octobar - November 2017", "company":"DevOps Belgrade", "details":"I worked on Reevio old project from DevOps company. I was on practice work about one month. After that I need worked on new project, but that procjet never start."},
-    {"jobTitle": "Backend Developer", "time": "June - Avgust 2017", "company":"30Hills Belgrade", "details":"I have worked on the project ‘’Tempus’’ as a backend developer in JavaScript(NodeJS). We were developing application for Project tracking. Team then 5 people did on that project. We were using Scrum as a project methodology and finsih succesifull project."},
-    {"jobTitle": "FullStack Developer", "time": "2013-2017", "company":"School electircal and computer engenering aplied studies in Belegrade", "details":"On factuly I had some project on C, PHP, Java, Node.js"}
+    {"jobTitle": "Backend Developer", "time": "October - November 2017", "company":"DevOps Belgrade", "details":"I worked on Reevio old project from DevOps company. I was on practice work about one month. After that I need worked on new project, but that procjet never start."},
+    {"jobTitle": "Backend Developer", "time": "June - August 2017", "company":"30Hills Belgrade", "details":"I have worked on the project ‘’Tempus’’ as a backend developer in JavaScript(NodeJS). We were developing application for Project tracking. Team then 5 people did on that project. We were using Scrum as a project methodology and finsih succesifull project."},
+    {"jobTitle": "FullStack Developer", "time": "2013-2017", "company":"School electrical and computer engenering aplied studies in Belegrade", "details":"On factuly I had some project on C, PHP, Java, Node.js"}
 
   ],
   "projects":[
