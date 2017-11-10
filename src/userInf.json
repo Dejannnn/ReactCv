@@ -13,26 +13,26 @@
      "time":"2009-2013"
      },
     {
-      "degree": "School of electrical and computer engineering applied study ",
+      "degree": "The School of Electrical and Computer Engineering of Applied Studies ",
       "meta": "Faculty in Belgrade",
       "time":"2013-2017"
     }
   ],
   "language":[
     {"lang":"Serbian","langDesc":"native"},
-    {"lang":"English","langDesc":"professional"}
+    {"lang":"English","langDesc":"B1"}
   ],
   "interests":["Running", "Walking","Basketball", "Bicycle"],
   "experiences":[
     {"jobTitle": "Backend Developer", "time": "October - November 2017", "company":"DevOps Belgrade", "details":"I worked on Reevio old project from DevOps company. I was on practice work about one month. After that I need worked on new project, but that procjet never start."},
-    {"jobTitle": "Backend Developer", "time": "June - August 2017", "company":"30Hills Belgrade", "details":"I have worked on the project ‘’Tempus’’ as a backend developer in JavaScript(NodeJS). We were developing application for Project tracking. Team then 5 people did on that project. We were using Scrum as a project methodology and finish successful project."},
-    {"jobTitle": "FullStack Developer", "time": "2013-2017", "company":"School electrical and computer engineering applied studies in Belegrade", "details":"On faculty I had some project on C, PHP, Java, Node.js"}
+    {"jobTitle": "Backend Developer", "time": "June - August 2017", "company":"30Hills Belgrade", "details":"I have worked on the project ‘’Tempus’’ as a backend developer in JavaScript(NodeJS). We were developing application for Project tracking. A team then 5 people worked on the project. We were using Scrum as a project methodology and finish successful project."},
+    {"jobTitle": "FullStack Developer", "time": "2013-2017", "company":"The School of Electrical and Computer Engineering of Applied Studies", "details":"On faculty I had some project in C, PHP, Java, Node.js"}
 
   ],
   "projects":[
-    {"projectTitle": "Tempus", "projectTagline":"Tempus is project tracker. All project worked in Node.js on server side, and client side on Angular 2. For database we use Mongodb "},
-    {"projectTitle": "Reevio", "projectTagline":"Reevio is project for video and image editing. All project worked in Node.js on server side, and client side on jquery. For database we use MySql"},
-    {"projectTitle": "PhoneStore", "projectTagline":"Phone store is site for mobile web store where we could see article on store and contact store. Phone store on server side use NodeJS, client side use pure JavaScript with Node.js template. For data base use Postgres SQL "}
+    {"projectTitle": "Tempus", "projectTagline":"Tempus is project tracker. All project wrote in Node.js on server side, and client side on Angular 2. For database we use Mongodb "},
+    {"projectTitle": "Reevio", "projectTagline":"Reevio is project for video and image editing. All project wrote in Node.js on server side, and client side on jquery. For database we use MySql"},
+    {"projectTitle": "PhoneStore", "projectTagline":"Phone store is site for mobile web store where we could see article on store and contact store. Phone store on server side wrote in NodeJS, client side wrote in pure JavaScript with Node.js template. For data base use Postgres SQL "}
   ],
   "skills":[
     {"levelTitle": "C", "projectTagline":"15%"},

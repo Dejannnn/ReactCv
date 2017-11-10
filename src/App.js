@@ -78,12 +78,11 @@ class App extends Component {
                     <h1 className="name">{information.name+' '+ information.lastname}</h1>
                     <h3 className="tagline">{information.tagline}</h3>
                 </div>
-
+                heroku login
                 <div className="contact-container container-block">
                     <ul className="list-unstyled contact-list">
                         <li className="email"><i className="fa fa-envelope"></i><a href="mailto: jorganovicd@gmail.com">{information.email}</a></li>
                         <li className="phone"><i className="fa fa-phone"></i><a href={information.phone}>{information.phone}</a></li>
-                        <li className="website"><i className="fa fa-globe"></i><a href="" target="_blank"></a></li>
                         <li className="linkedin"><i className="fa fa-linkedin"></i><a href={information.linkedin} target="_blank">linkedin.com/in/dejan</a></li>
                         <li className="github"><i className="fa fa-github"></i><a href={information.github} target="_blank">github.com/dejannnn</a></li>
                     </ul>
