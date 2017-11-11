@@ -78,7 +78,7 @@ class App extends Component {
                     <h1 className="name">{information.name+' '+ information.lastname}</h1>
                     <h3 className="tagline">{information.tagline}</h3>
                 </div>
-                heroku login
+
                 <div className="contact-container container-block">
                     <ul className="list-unstyled contact-list">
                         <li className="email"><i className="fa fa-envelope"></i><a href="mailto: jorganovicd@gmail.com">{information.email}</a></li>
@@ -125,9 +125,6 @@ class App extends Component {
 
                 <section className="section projects-section">
                     <h2 className="section-title"><i className="fa fa-archive"></i>Projects</h2>
-                    <div className="intro">
-                        <p>You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.</p>
-                    </div>
                     {this.fetchProjectFromJson()}
                 </section>
 
