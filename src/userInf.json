@@ -25,15 +25,15 @@
   ],
   "interests":["Running", "Walking","Basketball", "Bicycle"],
   "experiences":[
-    {"jobTitle": "Backend Developer", "time": "October - November 2017", "company":"DevOps Belgrade", "details":"I have worked on project called Reevio, old project in DevOps company. I have been on internship and have worked with experienced colleage"},
+    {"jobTitle": "Backend Developer", "time": "October - November 2017", "company":"ProDevs Belgrade", "details":"I have worked on project called Reevio, old project in ProDevs company. I have been on internship and have worked with experienced colleage."},
     {"jobTitle": "Backend Developer", "time": "June - August 2017", "company":"30Hills Belgrade", "details":"I have worked on the project ‘’Tempus’’ as a backend developer in JavaScript(NodeJS). We were developing application for Project tracking. The team which consist off 5 people have worked on the project. We were using Scrum as a project methodology and successfully finish project."},
-    {"jobTitle": "Student", "time": "2013-2017", "company":"The School of Electrical and Computer Engineering of Applied Studies", "details":"I have worked on different kind of project in programing languages C, PHP, Java, Node.js on my faculty"}
+    {"jobTitle": "Student", "time": "2013-2017", "company":"The School of Electrical and Computer Engineering of Applied Studies", "details":"I have worked on different kind of project in programing languages C, PHP, Java, Node.js on my faculty."}
 
   ],
   "projects":[
-    {"projectTitle": "Reevio", "projectTagline":"Reevio is project for video and image editing. This project is written on server side in Node.js, and on client side is written in jquery. For database we used MySql"},
-    {"projectTitle": "Tempus", "projectTagline":"This project is written on server side in Node.js , and on client side is Angular 2. For database we used Mongodb "},
-    {"projectTitle": "PhoneStore", "projectTagline":"Phone store is site for mobile web store where we could see list of articles in store. Phone store is written on server side in NodeJS and client side is written in pure JavaScript with Node.js template. For database used Postgres SQL "}
+    {"projectTitle": "Reevio", "projectTagline":"Reevio is project for video and image editing. This project is written on server side in Node.js, and on client side is written in jquery. For database we used MySql."},
+    {"projectTitle": "Tempus", "projectTagline":"This project is written on server side in Node.js , and on client side is Angular 2. For database we used Mongodb."},
+    {"projectTitle": "PhoneStore", "projectTagline":"Phone store is site for mobile web store where we could see list of articles in store. Phone store is written on server side in NodeJS and client side is written in pure JavaScript with Node.js template. For database used Postgres SQL. "}
   ],
   "skills":[
     {"levelTitle": "C", "projectTagline":"15%"},
